@@ -2,10 +2,30 @@
   percentage: 90
   color: danger
 
-- name: Go
-  percentage: 80
+- name: PHP
+  percentage: 70
   color:
 
 - name: Python
-  percentage: 70
+  percentage: 95
   color: secondary
+
+- name: Angular
+  percentage: 55
+  color: danger
+
+- name: IOT Programming
+  percentage: 70
+  color:
+
+- name: C++ Programming
+  percentage: 75
+  color: secondary
+  
+- name:  UI/UX Development
+  percentage: 85
+  color: danger
+
+- name: API Developer
+  percentage: 70
+  color:
