@@ -8,7 +8,7 @@ weight: 3
 # **About Me**
 
 Hi I am **{{ site.author.name }}** :wave:,<br>
-I'm the extroverted student surfing through university waves 🌊. Seeking field experience while sculpting moments into productivity 🚀. A logic wizard with humor that'll crack codes and smiles simultaneously 😄🔍.
+The extroverted student surfing through university waves 🌊. Seeking field experience while sculpting moments into productivity 🚀. A logic wizard with humor that'll crack codes and smiles simultaneously 😄🔍.
 <br> Im a symphony of creativity 🎨 and logic 💡 harmonizing at their finest.
 
 
