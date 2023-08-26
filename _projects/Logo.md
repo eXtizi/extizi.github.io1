@@ -1,4 +1,4 @@
-![Untitled](https://github.com/eXtizi/extizi.github.io/assets/75202685/d9d8e857-2adf-43a4-be98-9589a55b2ab7)---
+---
 name: Logo Desigining Portfolio
 tools: [Adobe illustrator, adobe photoshop, Freelancing ]
 image: https://i.imgur.com/p4pY6n2.png
