@@ -1,10 +1,10 @@
 ---
 name: My Other Graphic Designs
 tools: [Adobe illustrator,adobe photoshop,Freelancing]
-image: https://www.sketchappsources.com/resources/source-image/movie-badges-jurajjurik.png
+image: https://i.imgur.com/9w9D0zv.png
 description: These are a bunch of banners, arts etc done by me.
 ---
-# Ceylon V2ray Logo 
+# Sirimath Dev Banner
 
 A logo For **Ceylon V2ray** app, Incoparating "C" , "V" , "2ray".
 
