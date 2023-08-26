@@ -55,7 +55,7 @@ https://i.imgur.com/7vHztEf.png
 {% endcapture %}
 {% include elements/carousel.html %}
 
-#New Year Poster For Peoples Bank Sri Lanka
+# New Year Poster For Peoples Bank Sri Lanka
 
 {% capture carousel_images %}
 https://i.imgur.com/IraA2Jb.png
