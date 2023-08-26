@@ -43,9 +43,9 @@ description: These are a bunch of banners, arts etc done by me.
 ![preview](https://i.imgur.com/M4h6zin.jpeg)
 # Gaming logo
 ![preview](https://i.imgur.com/pN64d26.jpeg)
-# Squid game themed buttons
-![preview]()
-# Squid game themed buttons
-![preview]()
-# Squid game themed buttons
-![preview]()
+# Class Leaftlets 
+![preview](https://i.imgur.com/y0FcSON.png)
+# Mood Board
+![preview](https://i.imgur.com/jKz0UM8.png)
+# Business Cards
+![preview](https://i.imgur.com/bhpDqrZ.png)
