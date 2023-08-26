@@ -71,16 +71,21 @@ A Logo for a Mentoring Platform
 
 ## Digital Fairy Tales
 a Personal DIgital Platform for a Freelancer 
-![preview](https://i.imgur.com/CmLXiO2.png)
+![preview](https://i.imgur.com/BFsXvL2.jpg)
+![preview](https://i.imgur.com/Ib4GLjD.png)
 <p class="text-center">
 {% include elements/button.html link="https://fairytales.dev/" text="Watch it on action" %}
   <br> (Under Development)
 </p>
 
-## Ceylon Tunnel Logo
-Redesigned the This logo
-![preview](https://i.imgur.com/CmLXiO2.png)
+## Puduma Lokaya
+Amazing Facts Around the Globe
+![preview](https://i.imgur.com/cfLsSNf.png)
+
+## Sirimath.Dev 
+A Logo for a Digital Firm
+![preview](https://i.imgur.com/TGiUlLw.png)
 <p class="text-center">
-{% include elements/button.html link="https://play.google.com/store/apps/details?id=com.ceylon.pro" text="Watch it on action" %}
-  <br> 500K+ Downloads
+{% include elements/button.html link="https://play.google.com/store/apps/dev?id=6567717445674153817" text="Watch it on action" %}
+  <br> 
 </p>
