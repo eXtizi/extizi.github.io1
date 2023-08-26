@@ -17,7 +17,7 @@ https://i.imgur.com/ici5a6g.png
 {% include elements/carousel.html %}
 
 # Srilankan Spice Packaging 
-{% capture carousel_images1 %}
+{% capture carousel_images %}
 https://i.imgur.com/BBMA78q.jpg
 https://i.imgur.com/Qzwbdbf.jpg
 https://i.imgur.com/9X3toEK.jpg
@@ -30,7 +30,7 @@ https://i.imgur.com/hBKipS7.jpg
 {% include elements/carousel.html %}
 
 # Baked Cookie Flavours
-{% capture carousel_images2 %}
+{% capture carousel_images %}
 https://i.imgur.com/sAGgXuK.png
 https://i.imgur.com/Q3Fepho.png
 https://i.imgur.com/NrD0y4K.png
@@ -57,7 +57,7 @@ https://i.imgur.com/7vHztEf.png
 
 # New Year Poster For Peoples Bank Sri Lanka
 
-{% capture carousel_images3 %}
+{% capture carousel_images %}
 https://i.imgur.com/IraA2Jb.png
 https://i.imgur.com/8BRvhk2.png
 https://i.imgur.com/KaDb8j4.png
