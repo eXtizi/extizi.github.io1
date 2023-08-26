@@ -1,4 +1,4 @@
----
+![Untitled](https://github.com/eXtizi/extizi.github.io/assets/75202685/d9d8e857-2adf-43a4-be98-9589a55b2ab7)---
 name: Logo Desigining Portfolio
 tools: [Adobe illustrator, adobe photoshop, Freelancing ]
 image: https://i.imgur.com/p4pY6n2.png
@@ -61,20 +61,22 @@ Add docker support for a Strapi Project with ease 🚀
 </p>
 
 
-## Ceylon Tunnel Logo
-Redesigned the This logo
+## SORA Dash
+A Logo for a Mentoring Platform
+![preview](https://i.imgur.com/Ck2W6vn.png)
+<p class="text-center">
+{% include elements/button.html link="https://soradash.app/" text="Watch it on action" %}
+  <br> (Under Development)
+</p>
+
+## Digital Fairy Tales
+a Personal DIgital Platform for a Freelancer 
 ![preview](https://i.imgur.com/CmLXiO2.png)
 <p class="text-center">
-{% include elements/button.html link="https://play.google.com/store/apps/details?id=com.ceylon.pro" text="Watch it on action" %}
-  <br> 500K+ Downloads
+{% include elements/button.html link="https://fairytales.dev/" text="Watch it on action" %}
+  <br> (Under Development)
 </p>
-## Ceylon Tunnel Logo
-Redesigned the This logo
-![preview](https://i.imgur.com/CmLXiO2.png)
-<p class="text-center">
-{% include elements/button.html link="https://play.google.com/store/apps/details?id=com.ceylon.pro" text="Watch it on action" %}
-  <br> 500K+ Downloads
-</p>
+
 ## Ceylon Tunnel Logo
 Redesigned the This logo
 ![preview](https://i.imgur.com/CmLXiO2.png)
