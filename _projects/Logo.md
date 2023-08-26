@@ -5,16 +5,76 @@ image: https://i.imgur.com/p4pY6n2.png
 description: This is My Logo Designing Portfolio. Take a peek!
 ---
 
-# The Movies Project
+# Ceylon V2ray Logo 
 
-The Movies Project is something like **Netflix**, the only difference is that **it's not real**! It doesn't exist! I just created it to demonstrate how the **showcase** page looks like and how you can write whatever you want with full markdown support.
+A logo For **Ceylon V2ray** app, Incoparating "C" , "V" , "2ray".
 
-![preview](https://www.sketchappsources.com/resources/source-image/we-were-soldiers-landing-page-dbruggisser.jpg)
-
-## Search Movies
-
-![search](https://www.sketchappsources.com/resources/source-image/microsoft-windows-10-virtual-keyboard-diogo-sousa.png)
-
+![preview](https://i.imgur.com/CmLXiO2.png)
 <p class="text-center">
-{% include elements/button.html link="https://github.com/YoussefRaafatNasry/portfolYOU" text="Learn More" %}
+{% include elements/button.html link="https://play.google.com/store/apps/details?id=com.ceylon.v2ray" text="Watch it on action" %}
+  <br> 10K+ Downloads
+</p>
+
+## JMBLE - Making Every Moment Special
+A logo for a Event Planing app
+![preview](https://i.imgur.com/AO8Ut7l.jpg)
+![preview](https://i.imgur.com/ZGsWiGQ.jpg)
+
+## Dulce's Bakes
+A Simple Logo for a Bake shop
+![preview](https://i.imgur.com/cCJWkIN.jpg)
+
+## SHELLBACK
+Solemn Mystries of the Ancient Order of the Deep
+![preview](https://i.imgur.com/rDebAMx.jpg)
+
+## FJS - Foxes Journey Sanctuary
+Redesigned the This logo
+![preview](https://i.imgur.com/4AnxZqJ.png)
+<p class="text-center">
+{% include elements/button.html link="https://www.foxesjourneysanctuary.org/" text="Website" %}
+{% include elements/button.html link="https://www.foxesjourneysanctuary.org/shop" text="Products" %}
+</p>
+
+## Ceylon Tunnel Logo
+Redesigned the This logo
+![preview](https://i.imgur.com/CmLXiO2.png)
+<p class="text-center">
+{% include elements/button.html link="https://play.google.com/store/apps/details?id=com.ceylon.pro" text="Watch it on action" %}
+  <br> 500K+ Downloads
+</p>
+## Ceylon Tunnel Logo
+Redesigned the This logo
+![preview](https://i.imgur.com/CmLXiO2.png)
+<p class="text-center">
+{% include elements/button.html link="https://play.google.com/store/apps/details?id=com.ceylon.pro" text="Watch it on action" %}
+  <br> 500K+ Downloads
+</p>
+## Ceylon Tunnel Logo
+Redesigned the This logo
+![preview](https://i.imgur.com/CmLXiO2.png)
+<p class="text-center">
+{% include elements/button.html link="https://play.google.com/store/apps/details?id=com.ceylon.pro" text="Watch it on action" %}
+  <br> 500K+ Downloads
+</p>
+## Ceylon Tunnel Logo
+Redesigned the This logo
+![preview](https://i.imgur.com/CmLXiO2.png)
+<p class="text-center">
+{% include elements/button.html link="https://play.google.com/store/apps/details?id=com.ceylon.pro" text="Watch it on action" %}
+  <br> 500K+ Downloads
+</p>
+## Ceylon Tunnel Logo
+Redesigned the This logo
+![preview](https://i.imgur.com/CmLXiO2.png)
+<p class="text-center">
+{% include elements/button.html link="https://play.google.com/store/apps/details?id=com.ceylon.pro" text="Watch it on action" %}
+  <br> 500K+ Downloads
+</p>
+## Ceylon Tunnel Logo
+Redesigned the This logo
+![preview](https://i.imgur.com/CmLXiO2.png)
+<p class="text-center">
+{% include elements/button.html link="https://play.google.com/store/apps/details?id=com.ceylon.pro" text="Watch it on action" %}
+  <br> 500K+ Downloads
 </p>
