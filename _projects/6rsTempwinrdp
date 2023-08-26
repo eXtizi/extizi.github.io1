@@ -1,7 +1,7 @@
 ---
 name: 6 hours Temporary Windows rdp
 tools: [Batchfile, Powershell,Github Actions, Opensource]
-image: https://i.imgur.com/dV5ZpTU.jpg
+image: https://i.imgur.com/zbpu6I3.png
 description: New Modified Script for Creating a free Rdp for 6 hours using Github Actions (now deprecated and not working)
 external_url: https://github.com/eXtizi/6rsTempwinrdp
 ---
