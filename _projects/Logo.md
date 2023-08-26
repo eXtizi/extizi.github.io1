@@ -8,8 +8,9 @@ description: This is My Logo Designing Portfolio. Take a peek!
 # Ceylon V2ray Logo 
 
 A logo For **Ceylon V2ray** app, Incoparating "C" , "V" , "2ray".
-
+<div style="height:25rem;">
 ![preview](https://i.imgur.com/CmLXiO2.png)
+</div>
 <p class="text-center">
 {% include elements/button.html link="https://play.google.com/store/apps/details?id=com.ceylon.v2ray" text="Watch it on action" %}
   <br> 10K+ Downloads
