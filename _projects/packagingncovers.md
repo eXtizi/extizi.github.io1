@@ -15,6 +15,24 @@ https://i.imgur.com/ici5a6g.png
 {% endcapture %}
 {% include elements/carousel.html %}
 
+# Music Album Cover
+The Future of the Rock By Apothecary Raincoat
+![Preview](https://i.imgur.com/ZeWt1hY.jpg)
+
+<p class="text-center">
+{% include elements/button.html link="https://open.spotify.com/track/7C38Ddp0OiAgy2gAhp4zsm" text="See on Spotify" %}
+</p>
+
+# New Year Poster For Peoples Bank Sri Lanka
+
+
+![Preview](https://i.imgur.com/IraA2Jb.png)
+![Preview](https://i.imgur.com/8BRvhk2.png)
+![Preview](https://i.imgur.com/KaDb8j4.png)
+![Preview](https://i.imgur.com/iZx2Tx3.png)
+![Preview](https://i.imgur.com/Ck2ewAK.png)
+![Preview](https://i.imgur.com/IZFkgJo.png)
+
 # Srilankan Spice Packaging 
 
 ![Preview](https://i.imgur.com/BBMA78q.jpg)
@@ -25,6 +43,10 @@ https://i.imgur.com/ici5a6g.png
 ![Preview](https://i.imgur.com/sBLXoLv.jpg)
 ![Preview](https://i.imgur.com/ZhmxXtY.jpg)
 ![Preview](https://i.imgur.com/hBKipS7.jpg)
+
+
+
+
 
 
 # Baked Cookie Flavours
@@ -52,22 +74,3 @@ https://i.imgur.com/ici5a6g.png
 ![Preview](https://i.imgur.com/7vHztEf.png)
 
 
-# New Year Poster For Peoples Bank Sri Lanka
-
-
-![Preview](https://i.imgur.com/IraA2Jb.png)
-![Preview](https://i.imgur.com/8BRvhk2.png)
-![Preview](https://i.imgur.com/KaDb8j4.png)
-![Preview](https://i.imgur.com/iZx2Tx3.png)
-![Preview](https://i.imgur.com/Ck2ewAK.png)
-![Preview](https://i.imgur.com/IZFkgJo.png)
-
-
-
-# Music Album Cover
-The Future of the Rock By Apothecary Raincoat
-![Preview](https://i.imgur.com/ZeWt1hY.jpg)
-
-<p class="text-center">
-{% include elements/button.html link="https://open.spotify.com/track/7C38Ddp0OiAgy2gAhp4zsm" text="See on Spotify" %}
-</p>
