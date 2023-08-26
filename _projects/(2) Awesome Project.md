@@ -1,8 +1,8 @@
 ---
-name: The Movies Project
-tools: [C#, XML, WPF]
-image: https://www.sketchappsources.com/resources/source-image/movie-badges-jurajjurik.png
-description: This project has an individual showcase page, not just a direct link to the project site or repo. Now you have more space to describe your awesome project!
+name: Logo Desigining Portfolio
+tools: [Adobe illustrator, adobe photoshop, Freelancing ]
+image: https://i.imgur.com/p4pY6n2.png
+description: This is My Logo Designing Portfolio. Take a peek!
 ---
 
 # The Movies Project
