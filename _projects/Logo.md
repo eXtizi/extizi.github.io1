@@ -139,6 +139,103 @@ My Personal Social Media Promoting Platform
 ![preview]([ ](https://i.imgur.com/4tMsSen.png))
 
 
+## Cloud Artworks
+ Logo for a Vector art Graphic Designer
+
+![preview]( https://i.imgur.com/TqxpZFM.jpg)
+<p class="text-center">
+{% include elements/button.html link=" https://www.instagram.com/cloud_artwrk/" text="Watch it on action" %}
+  <br>  
+</p>
+
+## Coner QR
+ a Product that revolve around Books and QR codes.
+![preview](https://i.imgur.com/fGGLSq9.jpg )
+
+## DreamTeam
+ 
+![preview](https://i.imgur.com/L5h2Zwd.jpg )
+![preview](https://i.imgur.com/rFvv6Cn.jpg )
+![preview]( https://i.imgur.com/81YS6U5.jpg)
+![preview]( https://i.imgur.com/iEtcI2q.jpg)
+
+## Frame My Pics
+ 
+![preview]( )
+<p class="text-center">
+{% include elements/button.html link=" http://framemypics.com/" text="Watch it on action" %}
+  <br>  
+</p>
+
+## London Alley Tea co.
+ This logo incorporates a cup and tea leaves and a Crown combining top part of the cup and tea leaves
+![preview]( https://i.imgur.com/fhsOZmo.png)
+
+
+## ZephyrAngel
+ a logo for a twitch Streamer
+![preview]( https://i.imgur.com/JZ0tpsD.jpg)
+<p class="text-center">
+{% include elements/button.html link="https://www.twitch.tv/zephyrangel " text="Watch it on action" %}
+  <br>  
+</p>
+
+## Black Seventeen Podcast
+ a logo for a weekly Society and Culture podcast
+
+![preview](https://i.imgur.com/ndezuiA.jpg )
+![preview]( https://i.imgur.com/Ir8CYOK.jpg)
+![preview](https://i.imgur.com/voCnxKL.jpg )
+
+
+<p class="text-center">
+{% include elements/button.html link=" https://www.podchaser.com/podcasts/black-seventeen-podcast-1456932" text="Watch it on action" %}
+  <br>  
+</p>
+
+## Mint Chef
+ 
+![preview](https://i.imgur.com/83wa4sR.jpg )
+
+
+## The NewYork Experinece
+ Podcast Logo
+![preview](https://i.imgur.com/CKdpGes.jpg )
+
+## The Repair Factory
+ 
+![preview]( https://i.imgur.com/fwwv3yK.jpg)
+
+
+## The Walmsley Group
+ Estate Agents
+![preview](https://i.imgur.com/bqkKELf.jpg )
+
+
+## 
+ 
+![preview]( )
+<p class="text-center">
+{% include elements/button.html link=" " text="Watch it on action" %}
+  <br>  
+</p>
+
+## 
+ 
+![preview]( )
+<p class="text-center">
+{% include elements/button.html link=" " text="Watch it on action" %}
+  <br>  
+</p>
+
+## 
+ 
+![preview]( )
+<p class="text-center">
+{% include elements/button.html link=" " text="Watch it on action" %}
+  <br>  
+</p>
+
 ## 
  
 ![preview]( )
