@@ -39,7 +39,7 @@ Redesigned the This logo
 
 ## Ceylon Tunnel Logo
 Redesigned the This logo
-![preview](https://i.imgur.com/CmLXiO2.png)
+![preview](https://i.imgur.com/L9p9d72.png)
 <p class="text-center">
 {% include elements/button.html link="https://play.google.com/store/apps/details?id=com.ceylon.pro" text="Watch it on action" %}
   <br> 500K+ Downloads
