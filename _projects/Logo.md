@@ -89,3 +89,108 @@ A Logo for a Digital Firm
 {% include elements/button.html link="https://play.google.com/store/apps/dev?id=6567717445674153817" text="Watch it on action" %}
   <br> 
 </p>
+
+## VOX SMP
+My Personal Social Media Promoting Platform
+![preview](https://i.imgur.com/1TTww37.jpg)
+<p class="text-center">
+{% include elements/button.html link="https://t.me/VoxSMP" text="Watch it on action" %}
+  <br> (Currently Paused)
+</p>
+
+## White Spade
+ Fashion Done Differently
+![preview](https://i.imgur.com/5ISdLop.jpg )
+
+
+## IKONE
+ 
+![preview](https://i.imgur.com/EUGnhnZ.jpg )
+![preview](https://i.imgur.com/CSqrcce.png)
+<p class="text-center">
+{% include elements/button.html link="[ ](https://www.instagram.com/__ikone__/)" text="Watch it on action" %}
+  <br>  
+</p>
+
+## TAPROBANIAN Spice Arcade
+ 
+![preview]( https://i.imgur.com/XZ63nPs.jpg)
+<p class="text-center">
+{% include elements/button.html link=" https://www.instagram.com/thapro_1999/" text="Watch it on action" %}
+  <br>  
+</p>
+
+## Sport Universe lk
+ Sport Item Store
+![preview](https://i.imgur.com/bHCm7Au.jpg)
+
+
+## PWR VOLT
+ A Battery Company
+![preview](https://i.imgur.com/vvcaWGz.png )
+
+## Kai Bodycare
+ A sea salt based Body Spray
+![preview](https://i.imgur.com/o2nZQx6.jpg )
+
+
+## Fire Crystal
+ A Unisex Perfume
+![preview]([ ](https://i.imgur.com/4tMsSen.png))
+
+
+## 
+ 
+![preview]( )
+<p class="text-center">
+{% include elements/button.html link=" " text="Watch it on action" %}
+  <br>  
+</p>
+
+## 
+ 
+![preview]( )
+<p class="text-center">
+{% include elements/button.html link=" " text="Watch it on action" %}
+  <br>  
+</p>
+
+## 
+ 
+![preview]( )
+<p class="text-center">
+{% include elements/button.html link=" " text="Watch it on action" %}
+  <br>  
+</p>
+
+## 
+ 
+![preview]( )
+<p class="text-center">
+{% include elements/button.html link=" " text="Watch it on action" %}
+  <br>  
+</p>
+
+## 
+ 
+![preview]( )
+<p class="text-center">
+{% include elements/button.html link=" " text="Watch it on action" %}
+  <br>  
+</p>
+
+## 
+ 
+![preview]( )
+<p class="text-center">
+{% include elements/button.html link=" " text="Watch it on action" %}
+  <br>  
+</p>
+
+## 
+ 
+![preview]( )
+<p class="text-center">
+{% include elements/button.html link=" " text="Watch it on action" %}
+  <br>  
+</p>
