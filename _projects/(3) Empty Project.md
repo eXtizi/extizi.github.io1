@@ -1,7 +1,8 @@
 ---
-name: Empty Project
-tools: [Node JS, JavaScript, HTML, CSS]
-image:
-description: This project has no image or showcase page, but it is still a beautiful project inside out!
-external_url: https://github.com/YoussefRaafatNasry
+name: Heroku Python Template
+
+tools: [Python, Heroku]
+image:https://i.imgur.com/T1idlUI.png
+description: a premade heroku template for python. fork and create your bot.py
+external_url: https://github.com/eXtizi/HerokuPythonTemplate
 ---
