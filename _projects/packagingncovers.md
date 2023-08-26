@@ -6,7 +6,6 @@ description: This project Contains Book Covers, Product Packagings, Mockups, Mus
 ---
 
 # The Percy Jackson Series Book Covers
-
 {% capture carousel_images %}
 https://i.imgur.com/QezRP6w.png
 https://i.imgur.com/aUJA9vS.png
