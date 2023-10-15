@@ -1,9 +1,13 @@
 ### Site Settings ###
 title               : Viyrl
 description         : >-
-                      From code 👨‍💻 to design 🎨, I skillfully roam,<br>
-                      Adobe's suite 🖌️, and languages I own.<br>
-                      Smooth teamwork 🤝, leadership I've honed
+                      Embrace the chaos, conquer the unknown. 💥🔥
+                      #FullStacKDev n' A Revolutionist 
+
+
+
+
+
 baseurl             : ""                     # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
 #repository          : YoussefRaafatNasry/portfolYOU     # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
 remote_theme        : eXtizi/porti
